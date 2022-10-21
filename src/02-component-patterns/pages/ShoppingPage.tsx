@@ -1,7 +1,5 @@
 import { ProductButtons, ProductCard, ProductImage, ProductTitle } from "../components"
 import '../styles/custom-styles.css';
-import { Product } from '../interfaces/interfaces';
-import { useState } from 'react';
 import { useShoppingCart } from '../hooks/useShoppingCart';
 
 
